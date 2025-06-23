@@ -26,4 +26,4 @@ Este é um projeto simples em React que demonstra o uso do [React Hook Form](htt
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/Formulario-react.git
+git clone https://github.com/Romeropedro1/Formulario-react.git
